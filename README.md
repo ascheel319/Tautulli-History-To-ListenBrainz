@@ -1,4 +1,4 @@
-# Tautulli-history-to-ListenBrainz
+# Tautulli-History-To-ListenBrainz
 
 Recently I found out about ListenBrainz and how it can be somewhat of a recommendation agent for my music listening via PlexAmp with the Weekly Jams playlists but there were a few issues:
 1) ListenBrainz did not have my listen history and neither did Spotify or another streamer.
